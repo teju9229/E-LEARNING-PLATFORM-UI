@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Courses - E-Learn</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>E-Learn</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="courses.html">Courses</a>
+      <span id="greet-user"></span>
+      <button onclick="openLogin()">Login</button>
+      <button onclick="openSignup()">Sign Up</button>
+      <button onclick="logout()" id="logout-btn" style="display:none;">Logout</button>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Available Courses</h2>
+    <div class="course-list">
+      <div class="course-card">
+        <h3>HTML & CSS</h3>
+        <p>Learn to build modern websites.</p>
+        <a href="course.html">View</a>
+      </div>
+      <div class="course-card">
+        <h3>JavaScript</h3>
+        <p>Master dynamic interactivity.</p>
+        <a href="course.html">View</a>
+      </div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

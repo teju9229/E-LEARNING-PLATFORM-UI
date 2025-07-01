@@ -28,4 +28,17 @@ This E-Learning Platform project demonstrates how powerful web applications can 
 
 ##OUTPUT
 
+ 
+![Image](https://github.com/user-attachments/assets/940529e5-b6cf-4396-b34a-e4367e2ceed3)
+
+![Image](https://github.com/user-attachments/assets/9b21c88a-b77f-4bd7-a3ba-d6f8108ae7b7)
+
+<!-- Uploading "Screenshot (487).png"... -->
+
+![Image](https://github.com/user-attachments/assets/d4be4b20-bd63-4f45-a217-71b28549c8b2)
+
+<!-- Uploading "Screenshot (489).png"... -->
+
+![Image](https://github.com/user-attachments/assets/c98736b2-8041-466b-ba18-f6339e7707dd)
+
 
